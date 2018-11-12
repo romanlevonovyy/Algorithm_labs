@@ -1,0 +1,16 @@
+145,259, Toshiba,wall
+167,307,Sony,portable
+124,266,Samsung,standing
+165,278,LG,wall
+109,254,Toshiba,standing
+179,299,Sony,portable
+132,274,Samsung,portable
+128,233,LG,wall
+162,289,Toshiba,portable
+120,300,Sony,standing
+127,244,Samsung,wall
+144,219,LG,standing
+138,167,Toshiba,portable
+199,188,Sony,standing
+115,174,Samsung,wall
+187,190,LG,portable
